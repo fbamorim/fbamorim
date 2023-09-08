@@ -6,6 +6,8 @@
 
 <p>Análise e Desenvolvimento de Sistemas</p>
 
+<hr/>
+
 ## Tecnologias 💻
 
 <div>
